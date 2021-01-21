@@ -1,0 +1,149 @@
+@media only screen and (min-width: 1920px){
+	.postal_column .theme_btn{width: 25%;}
+	.page-body .left-sidebar{width: 300px;}
+	.page-body .page-right-body{width: calc(100% - 300px);}
+	.page-body .left-sidebar .sidebar-content .sidebar-head .title{font-size: 26px;}
+	.page-body .left-sidebar .sidebar-content .sidebar-menu li .menu-link a{font-size: 21px;}
+	.page-body .left-sidebar .sidebar-content .sidebar-menu li .menu-link a i{font-size: 24px;}
+	.page-body .left-sidebar .sidebar-content .sidebar-menu li .submenu li a{font-size: 16px;}
+	.page-body .page-right-body .page-right-header .title{font-size: 20px;}
+	.page-body .page-right-body .page-right-body-content .claimant-section .claimant-head .title{font-size: 22px;}
+	.page-body .page-right-body .page-right-body-content .claimant-section .claimant-head .subtitle{font-size: 17px;}
+	.page-body .page-right-body .page-right-body-content .tabs-part .nav-tabs .nav-item .nav-link{font-size: 16px;}
+	.claimant-edit-form-part .form-label{font-size: 16px;}
+	.form-control{font-size: 16px;height: 38px;}
+	.theme_btn{height: 38px;font-size: 16px;max-width: 235px;}
+	.claimant-edit-form-part textarea{min-height: 165px;}
+	.theme_btn_outline{height: 38px;font-size: 16px;}
+	.page-body .page-right-body .page-right-body-content .claimant-section .claimant-head .waiting_btn{font-size: 16px;min-width: 120px;}
+	.theme-data-table table tr th,
+	.theme-data-table table tr td{font-size: 14px;}
+	.search-form label{font-size: 17px;}
+	.claimant-edit-form-part .claimant-top-part .claim-num{font-size: 17px;}
+	.page-body .page-right-body .page-right-header .menu-list li a{font-size: 20px;}
+	.tiles-section .tiles-content .tiles-box .number{font-size: 25px;}
+	.tiles-section .tiles-content .tiles-box .label{font-size: 15px;}
+	.page-body .page-right-body .page-right-body-content .theme-box .theme-box-head .title{font-size: 19px;}
+	.report-section .report-btn-part ul li .report-btn{font-size: 16px;}
+	.report-section .report-card-box .report-card-box-head .logo{width: 80px;}
+	.report-section .report-card-box .report-card-box-head .info-part .info-box p{font-size: 15px;padding-bottom: 8px;}
+	.report-section .report-card-box .report-schedule-part .title{font-size: 16px;}
+	.report-section .report-card-box .report-schedule-part .date{font-size: 13px;}
+	.report-section .report-card-box .report-schedule-part .report_table .table tr th,
+	.report-section .report-card-box .report-schedule-part .report_table .table tr td{font-size: 12px;}
+	.checkbox-list-part .checkbox-list-box .title{font-size: 20px;}
+	.checkbox-list-part .checkbox-list-box .checkbox-list label{font-size: 15px;}
+	.search-form .to{font-size: 15px;}
+	.search-form .custom_checkbox label{font-size: 15px;}
+	.page-right-body .page-right-body-content .filter_btn_part ul li .phase-custom-checkbox label p{font-size: 15px;}
+}
+
+@media only screen and (max-width: 1920px){
+	.claim_deceased_table tbody tr td:nth-child(1){min-width: 108px;}
+	.claim_deceased_table tbody tr td:nth-child(2){min-width: 205px;}
+	.claim_deceased_table tbody tr td:nth-child(3){min-width: 150px;}
+	.claim_deceased_table tbody tr td:nth-child(4){min-width: 80px;}
+	.claim_deceased_table tbody tr td:nth-child(5){min-width: 120px;}
+	.claim_deceased_table tbody tr td:nth-child(6){min-width: 70px;}
+	.claim_deceased_table tbody tr td:nth-child(7){min-width: 60px;}
+	.claim_deceased_table tbody tr td:nth-child(8){min-width: 110px;}
+	.claim_deceased_table tbody tr td:nth-child(9){min-width: 170px;}
+	.claim_deceased_table tbody tr td:nth-child(10){min-width: 160px;}
+	.claim_deceased_table tbody tr td:nth-child(11){min-width: 110px;}
+
+	.report_table tbody tr td:nth-child(1){min-width: 50px;}
+	.report_table tbody tr td:nth-child(2){min-width: 190px;}
+	.report_table tbody tr td:nth-child(3){min-width: 90px;}
+	.report_table tbody tr td:nth-child(4){min-width: 200px;}
+	.report_table tbody tr td:nth-child(5){min-width: 150px;}
+	.report_table tbody tr td:nth-child(6){min-width: 150px;}
+	.report_table tbody tr td:nth-child(7){min-width: 100px;}
+	.report_table tbody tr td:nth-child(8){min-width: 60px;}
+	.report_table tbody tr td:nth-child(9){min-width: 60px;}
+	.report_table tbody tr td:nth-child(10){min-width: 80px;}
+	.report_table tbody tr td:nth-child(11){min-width: 70px;}
+	.report_table tbody tr td:nth-child(12){min-width: 140px;}
+	.report_table tbody tr td:nth-child(13){min-width: 80px;}
+}
+
+@media only screen and (max-width: 1700px){
+	.object_deceased_table tbody tr td:nth-child(1){min-width: 125px;}
+	.object_deceased_table tbody tr td:nth-child(2){min-width: 150px;}
+	.object_deceased_table tbody tr td:nth-child(3){min-width: 80px;}
+	.object_deceased_table tbody tr td:nth-child(4){min-width: 165px;}
+	.object_deceased_table tbody tr td:nth-child(5){min-width: 230px;}
+	.object_deceased_table tbody tr td:nth-child(6){min-width: 220px;}
+	.object_deceased_table tbody tr td:nth-child(7){min-width: 220px;}
+	.object_deceased_table tbody tr td:nth-child(8){min-width: 125px;}
+
+	.object_deceased_table2 tbody tr td:nth-child(1){min-width: 85px;}
+	.object_deceased_table2 tbody tr td:nth-child(2){min-width: 205px;}
+	.object_deceased_table2 tbody tr td:nth-child(3){min-width: 80px;}
+	.object_deceased_table2 tbody tr td:nth-child(4){min-width: 130px;}
+	.object_deceased_table2 tbody tr td:nth-child(5){min-width: 70px;}
+	.object_deceased_table2 tbody tr td:nth-child(6){min-width: 70px;}
+	.object_deceased_table2 tbody tr td:nth-child(7){min-width: 100px;}
+	.object_deceased_table2 tbody tr td:nth-child(8){min-width: 160px;}
+	.object_deceased_table2 tbody tr td:nth-child(9){min-width: 180px;}
+	.object_deceased_table2 tbody tr td:nth-child(10){min-width: 110px;}
+}
+
+@media only screen and (max-width: 1600px){
+	.tiles-section .tiles-content .tiles-box{padding: 20px;}
+	.tiles-section .tiles-content .tiles-box .number{font-size: 20px;margin-right: 15px;}
+	.theme-data-table .registration_table tbody tr td:nth-child(2){min-width: 140px;}
+	.theme-data-table .registration_table tbody tr td:nth-child(3){min-width: 115px;}
+	.theme-data-table .registration_table tbody tr td:nth-child(4){min-width: 125px;}
+	.theme-data-table .registration_table tbody tr td:nth-child(5){min-width: 130px;}
+	.theme-data-table .registration_table tbody tr td:nth-child(6){min-width: 120px;}
+	.theme-data-table .registration_table tbody tr td:nth-child(7){min-width: 80px;}
+	.theme-data-table .registration_table tbody tr td:nth-child(8){min-width: 70px;}
+	.theme-data-table .registration_table tbody tr td:nth-child(9){min-width: 90px;}
+	.search-form .date-input-width{width: 150px;}
+	.report-section .report-card-box{padding: 15px 25px 25px;}
+	.report-form .report-input-width{width: 28%;}
+
+	.deceased_registry_table tbody tr td:nth-child(1){min-width: 195px;}
+	.deceased_registry_table tbody tr td:nth-child(2){min-width: 125px;}
+	.deceased_registry_table tbody tr td:nth-child(3){min-width: 80px;}
+	.deceased_registry_table tbody tr td:nth-child(4){min-width: 135px;}
+	.deceased_registry_table tbody tr td:nth-child(5){min-width: 80px;}
+	.deceased_registry_table tbody tr td:nth-child(6){min-width: 70px;}
+	.deceased_registry_table tbody tr td:nth-child(7){min-width: 100px;}
+	.deceased_registry_table tbody tr td:nth-child(8){min-width: 110px;}
+	.deceased_registry_table tbody tr td:nth-child(9){min-width: 120px;}
+	.deceased_registry_table tbody tr td:nth-child(10){min-width: 190px;}
+	.deceased_registry_table tbody tr td:nth-child(11){min-width: 110px;}
+}
+
+@media only screen and (max-width: 1400px){
+	.page-body .left-sidebar{width: 230px;}
+	.page-body .left-sidebar .sidebar-content .sidebar-menu li .menu-link{padding: 12px 20px;}
+	.page-body .left-sidebar .sidebar-content .sidebar-menu li .menu-link a{font-size: 16px;}
+	.page-body .left-sidebar .sidebar-content .sidebar-menu li .menu-link a i{font-size: 18px;margin-right: 15px;}
+	.page-body .left-sidebar .sidebar-content .sidebar-menu li .submenu li a{font-size: 13px;}
+	.page-body .left-sidebar .sidebar-content .sidebar-menu li .submenu{padding: 15px 20px;}
+	.page-body .left-sidebar .sidebar-content .sidebar-head{padding: 15px 20px;}
+	.page-body .left-sidebar .sidebar-content .sidebar-head .title{font-size: 20px;}
+	.page-body .page-right-body{width: calc(100% - 230px);}
+
+	.page-body .page-right-body .page-right-header .title{font-size: 16px;}
+	.page-body .page-right-body .page-right-body-content .claimant-section .claimant-head .title{font-size: 18px;}
+	.page-body .page-right-body .page-right-body-content .claimant-section .claimant-head .subtitle{font-size: 13px;}
+	.page-body .page-right-body .page-right-body-content .claimant-section .claimant-head .waiting_btn{width: 100px;}
+	.claimant-edit-form-part .form-label{font-size: 13px;margin-bottom: 8px;}
+	.theme_btn{padding: 5px 10px;font-size: 13px;min-width: 100px;}
+	.page-body .page-right-body .page-right-body-content .activity-table .table tr th,
+	.page-body .page-right-body .page-right-body-content .activity-table .table tr td{font-size: 14px;}
+	.search-form .form-input.search-input-width{width: 38%;}
+	.search-form label{font-size: 13px;margin-bottom: 8px;}
+	.claimant_registry_table tbody tr td:nth-child(1){min-width: 115px;}
+	.claimant_registry_table tbody tr td:nth-child(2){min-width: 150px;}
+	.claimant_registry_table tbody tr td:nth-child(3){min-width: 70px;}
+	.claimant_registry_table tbody tr td:nth-child(4){min-width: 155px;}
+	.claimant_registry_table tbody tr td:nth-child(5){min-width: 210px;}
+	.claimant_registry_table tbody tr td:nth-child(6){min-width: 220px;}
+	.claimant_registry_table tbody tr td:nth-child(7){min-width: 115px;}
+	.claimant-edit-form-part .claimant-top-part .claim-num{font-size: 13px;}
+	.page-body .page-right-body .page-right-body-content .form_btn_part li .btn{width: 150px;}
+}
